@@ -54,6 +54,4 @@ Edit
 InventorySystem.cpp      // Main C++ source file
 README.md                // Project documentation
 
-## ✍️ Author
-**Saif Emara**  
-[GitHub](https://github.com/saif-emara) | [LinkedIn](https://www.linkedin.com/in/saif-emara-51a777377)
+
